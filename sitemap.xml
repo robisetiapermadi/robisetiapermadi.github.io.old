@@ -1,69 +1,242 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>https://www.bytesician.my.id/</loc>
     <lastmod>2021-02-21T12:14:34+06:00</lastmod>
-  </url><url>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://www.bytesician.my.id/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.bytesician.my.id/categories/</loc>
     <lastmod>2021-02-21T12:14:34+06:00</lastmod>
-  </url><url>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://www.bytesician.my.id/categories/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.bytesician.my.id/categories/cloud-computing/</loc>
     <lastmod>2021-02-21T12:14:34+06:00</lastmod>
-  </url><url>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://www.bytesician.my.id/categories/cloud-computing/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.bytesician.my.id/categories/cyber-security/</loc>
     <lastmod>2021-02-21T12:14:34+06:00</lastmod>
-  </url><url>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://www.bytesician.my.id/categories/cyber-security/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.bytesician.my.id/portfolio/demilitarized-zone/</loc>
     <lastmod>2021-02-21T12:14:34+06:00</lastmod>
-  </url><url>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://www.bytesician.my.id/portfolio/demilitarized-zone/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.bytesician.my.id/portfolio/weavesocks-kubernetes/</loc>
     <lastmod>2021-02-21T12:14:34+06:00</lastmod>
-  </url><url>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://www.bytesician.my.id/portfolio/weavesocks-kubernetes/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.bytesician.my.id/categories/kubernetes/</loc>
     <lastmod>2021-02-21T12:14:34+06:00</lastmod>
-  </url><url>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://www.bytesician.my.id/categories/kubernetes/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.bytesician.my.id/categories/network-security/</loc>
     <lastmod>2021-02-21T12:14:34+06:00</lastmod>
-  </url><url>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://www.bytesician.my.id/categories/network-security/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.bytesician.my.id/portfolio/</loc>
     <lastmod>2021-02-21T12:14:34+06:00</lastmod>
-  </url><url>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://www.bytesician.my.id/portfolio/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.bytesician.my.id/blog/my-first-blog/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://www.bytesician.my.id/blog/my-first-blog/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.bytesician.my.id/blog/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://www.bytesician.my.id/blog/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.bytesician.my.id/portfolio/absensi-pembangunan/</loc>
     <lastmod>2020-03-08T12:14:34+06:00</lastmod>
-  </url><url>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://www.bytesician.my.id/portfolio/absensi-pembangunan/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.bytesician.my.id/categories/web-design/</loc>
     <lastmod>2020-03-08T12:14:34+06:00</lastmod>
-  </url><url>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://www.bytesician.my.id/categories/web-design/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.bytesician.my.id/categories/web-development/</loc>
     <lastmod>2020-03-08T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://www.bytesician.my.id/education/</loc>
-  </url><url>
-    <loc>https://www.bytesician.my.id/experience/</loc>
-  </url><url>
-    <loc>https://www.bytesician.my.id/funfacts/</loc>
-  </url><url>
-    <loc>https://www.bytesician.my.id/skill/</loc>
-  </url><url>
-    <loc>https://www.bytesician.my.id/banner/</loc>
-  </url><url>
-    <loc>https://www.bytesician.my.id/about/</loc>
-  </url><url>
-    <loc>https://www.bytesician.my.id/call-to-action/</loc>
-  </url><url>
-    <loc>https://www.bytesician.my.id/contact/</loc>
-  </url><url>
-    <loc>https://www.bytesician.my.id/service/</loc>
-  </url><url>
-    <loc>https://www.bytesician.my.id/tags/</loc>
-  </url><url>
-    <loc>https://www.bytesician.my.id/testimonial/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://www.bytesician.my.id/categories/web-development/"
+                />
   </url>
+  
+  <url>
+    <loc>https://www.bytesician.my.id/education/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://www.bytesician.my.id/education/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.bytesician.my.id/experience/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://www.bytesician.my.id/experience/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.bytesician.my.id/funfacts/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://www.bytesician.my.id/funfacts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.bytesician.my.id/skill/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://www.bytesician.my.id/skill/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.bytesician.my.id/banner/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://www.bytesician.my.id/banner/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.bytesician.my.id/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://www.bytesician.my.id/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.bytesician.my.id/call-to-action/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://www.bytesician.my.id/call-to-action/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.bytesician.my.id/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://www.bytesician.my.id/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.bytesician.my.id/service/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://www.bytesician.my.id/service/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.bytesician.my.id/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://www.bytesician.my.id/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.bytesician.my.id/testimonial/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://www.bytesician.my.id/testimonial/"
+                />
+  </url>
+  
 </urlset>
