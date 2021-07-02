@@ -21,16 +21,6 @@
   </url>
   
   <url>
-    <loc>https://www.bytesician.my.id/categories/cloud-computing/</loc>
-    <lastmod>2021-02-21T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://www.bytesician.my.id/categories/cloud-computing/"
-                />
-  </url>
-  
-  <url>
     <loc>https://www.bytesician.my.id/categories/cyber-security/</loc>
     <lastmod>2021-02-21T12:14:34+06:00</lastmod>
     <xhtml:link
@@ -47,26 +37,6 @@
                 rel="alternate"
                 hreflang="x-default"
                 href="https://www.bytesician.my.id/portfolio/demilitarized-zone/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.bytesician.my.id/portfolio/weavesocks-kubernetes/</loc>
-    <lastmod>2021-02-21T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://www.bytesician.my.id/portfolio/weavesocks-kubernetes/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.bytesician.my.id/categories/kubernetes/</loc>
-    <lastmod>2021-02-21T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://www.bytesician.my.id/categories/kubernetes/"
                 />
   </url>
   
@@ -137,16 +107,6 @@
                 rel="alternate"
                 hreflang="x-default"
                 href="https://www.bytesician.my.id/portfolio/absensi-pembangunan/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.bytesician.my.id/categories/web-design/</loc>
-    <lastmod>2020-03-08T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://www.bytesician.my.id/categories/web-design/"
                 />
   </url>
   
