@@ -1,4 +1,4 @@
 User-agent: *
 
 
-Sitemap: https://www.bytesician.my.id/sitemap.xml
+Sitemap: https://www.bytesician.me/sitemap.xml
