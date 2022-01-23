@@ -17,5 +17,15 @@
       <description>Deskripsi Aplikasi berbasis WEB dibuat menggunakan bahasa pemrograman PHP dengan Framework Codeigniter.</description>
     </item>
     
+    <item>
+      <title>Intefrasi Aplikasi Berbasis WEB Absensi Pembangunan dengan RFID</title>
+      <link>https://bytesician.me/portfolio/integrasi-web-rfid/</link>
+      <pubDate>Sun, 08 Mar 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://bytesician.me/portfolio/integrasi-web-rfid/</guid>
+      <description>Deskripsi Mengintegrasikan WEB dengan Hardware untuk Sistem Absensi.
+Hardware yang digunakan untuk sistem ini adalah :</description>
+    </item>
+    
   </channel>
 </rss>
