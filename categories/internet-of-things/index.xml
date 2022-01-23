@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>internet of things on Bytesician | Robi Setia Permadi</title>
+    <link>https://bytesician.me/categories/internet-of-things/</link>
+    <description>Recent content in internet of things on Bytesician | Robi Setia Permadi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2021 | Made with ❤ using [Hugo Framework](https://gohugo.io/)</copyright>
+    <lastBuildDate>Sun, 08 Mar 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://bytesician.me/categories/internet-of-things/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Integrasi Aplikasi Berbasis WEB Absensi Pembangunan dengan RFID</title>
+      <link>https://bytesician.me/portfolio/integrasi-web-rfid/</link>
+      <pubDate>Sun, 08 Mar 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://bytesician.me/portfolio/integrasi-web-rfid/</guid>
+      <description>Deskripsi Mengintegrasikan WEB dengan Hardware untuk Sistem Absensi.
+Hardware yang digunakan untuk sistem ini adalah :</description>
+    </item>
+    
+  </channel>
+</rss>
