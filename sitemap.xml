@@ -1,62 +1,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://bytesician.me/blog/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://bytesician.me/blog/"
+                />
+  </url>
+  
+  <url>
     <loc>https://bytesician.me/</loc>
-    <lastmod>2021-02-21T12:14:34+06:00</lastmod>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
                 href="https://bytesician.me/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://bytesician.me/categories/</loc>
-    <lastmod>2021-02-21T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://bytesician.me/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://bytesician.me/categories/cyber-security/</loc>
-    <lastmod>2021-02-21T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://bytesician.me/categories/cyber-security/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://bytesician.me/portfolio/demilitarized-zone/</loc>
-    <lastmod>2021-02-21T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://bytesician.me/portfolio/demilitarized-zone/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://bytesician.me/categories/network-security/</loc>
-    <lastmod>2021-02-21T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://bytesician.me/categories/network-security/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://bytesician.me/portfolio/</loc>
-    <lastmod>2021-02-21T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://bytesician.me/portfolio/"
                 />
   </url>
   
@@ -81,62 +41,12 @@
   </url>
   
   <url>
-    <loc>https://bytesician.me/blog/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://bytesician.me/blog/"
-                />
-  </url>
-  
-  <url>
     <loc>https://bytesician.me/tags/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
                 href="https://bytesician.me/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://bytesician.me/portfolio/absensi-pembangunan/</loc>
-    <lastmod>2020-03-08T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://bytesician.me/portfolio/absensi-pembangunan/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://bytesician.me/portfolio/integrasi-web-rfid/</loc>
-    <lastmod>2020-03-08T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://bytesician.me/portfolio/integrasi-web-rfid/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://bytesician.me/categories/internet-of-things/</loc>
-    <lastmod>2020-03-08T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://bytesician.me/categories/internet-of-things/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://bytesician.me/categories/web-development/</loc>
-    <lastmod>2020-03-08T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://bytesician.me/categories/web-development/"
                 />
   </url>
   
@@ -159,20 +69,20 @@
   </url>
   
   <url>
-    <loc>https://bytesician.me/funfacts/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://bytesician.me/funfacts/"
-                />
-  </url>
-  
-  <url>
     <loc>https://bytesician.me/skill/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
                 href="https://bytesician.me/skill/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bytesician.me/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://bytesician.me/categories/"
                 />
   </url>
   
